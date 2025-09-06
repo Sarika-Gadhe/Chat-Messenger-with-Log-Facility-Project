@@ -35,10 +35,10 @@
      ```bash
      java ChatClient
      
-4. Chat in real-time 
+4. **Chat in real-time**
 
    - Client types a message → Server receives and replies.
     
    - Server sends a response → Client displays it.
     
-   - Type end on the client side to close the chat.
+   - Type `end` on the client side to close the chat.
