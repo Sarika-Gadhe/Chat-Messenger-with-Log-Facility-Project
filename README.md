@@ -2,5 +2,5 @@
 
 ## 📌 Overview
 
-This project is a **Java-based Client-Server Chat Application** that demonstrates the fundamentals of **network programming**.  
-It enables a client and a server to communicate in real-time using **TCP sockets**, providing a simple console-based messaging system.  
+  This project is a **Java-based Client-Server Chat Application** that demonstrates the fundamentals of **network programming**.  
+  It enables a client and a server to communicate in real-time using **TCP sockets**, providing a simple console-based messaging system.  
