@@ -13,3 +13,9 @@
 - Built on **TCP socket communication** for reliability.  
 - Simple **console interface** for easy use.  
 - Terminate session gracefully by typing `end`.  
+
+## 🛠 Prerequisites
+
+
+- **Java JDK 8 or higher** 
+- A terminal or IDE (Command Prompt, VS Code, Eclipse, IntelliJ, etc.). 
