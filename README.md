@@ -26,3 +26,5 @@
 1. **Compile the programs**  
    ```bash
    javac ChatServer.java ChatClient.java
+
+2. Start the server (in one terminal)
