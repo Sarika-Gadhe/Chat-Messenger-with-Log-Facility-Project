@@ -9,7 +9,7 @@
 ## ✨ Features
 
 
-- Two-way chat between **client** and **server**.  
+- Two-way communication between **client** and **server**.  
 - Built on **TCP socket communication** for reliability.  
 - Simple **console interface** for easy use.  
 - Terminate session gracefully by typing `end`.  
