@@ -18,4 +18,11 @@
 
 
 - **Java JDK 8 or higher** 
-- A terminal or IDE (Command Prompt, VS Code, Eclipse, IntelliJ, etc.). 
+- A terminal or IDE (Command Prompt, VS Code, Eclipse, IntelliJ, etc.).
+
+
+## 🚀 How to Run
+
+1. **Compile the programs**  
+   ```bash
+   javac ChatServer.java ChatClient.java
