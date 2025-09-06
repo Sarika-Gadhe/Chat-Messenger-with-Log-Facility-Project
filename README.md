@@ -29,11 +29,11 @@
 
 2. **Start the server** (in one terminal)
      ```bash
-     java ChatServer
+     java ChatServer.java
      
 3.  **Start the client** (in another terminal)
      ```bash
-     java ChatClient
+     java ChatClient.java
      
 4. **Chat in real-time**
 
