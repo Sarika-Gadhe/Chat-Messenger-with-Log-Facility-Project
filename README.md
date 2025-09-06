@@ -31,7 +31,7 @@
      ```bash
      java ChatServer
      
-3.  **Start the client ** (in another terminal)
+3.  **Start the client** (in another terminal)
      ```bash
      java ChatClient
      
