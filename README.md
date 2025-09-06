@@ -27,4 +27,18 @@
    ```bash
    javac ChatServer.java ChatClient.java
 
-2. Start the server (in one terminal)
+2. **Start the server** (in one terminal)
+     ```bash
+     java ChatServer
+     
+3.  **Start the client ** (in another terminal)
+     ```bash
+     java ChatClient
+     
+4. Chat in real-time 
+
+   - Client types a message → Server receives and replies.
+    
+   - Server sends a response → Client displays it.
+    
+   - Type end on the client side to close the chat.
