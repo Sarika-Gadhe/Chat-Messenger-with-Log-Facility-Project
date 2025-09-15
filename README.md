@@ -3,8 +3,8 @@
 ## 📌 Overview
 
 
-  This project is a **Java-based Client-Server Chat Application** that demonstrates the fundamentals of **network programming**.  
-  It enables a client and a server to communicate in real-time using **TCP sockets**, providing a simple console-based messaging system.  
+  This project is a **Java-based peer-to-peer chat application** that enables real-time **text-based communication** between users using **Java Socket Programming**.
+  The Application is platform and architecture independent.
 
 ---
 ## ✨ Features
