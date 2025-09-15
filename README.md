@@ -4,7 +4,9 @@
 
 
   This project is a **Java-based peer-to-peer chat application** that enables real-time **text-based communication** between users using **Java Socket Programming**.
-  The Application is platform and architecture independent.
+  <br>
+  The application is **platform-independent** and **architecture-independent**.
+
 
 ---
 ## ✨ Features
