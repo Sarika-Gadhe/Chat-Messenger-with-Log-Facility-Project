@@ -22,6 +22,21 @@
 - Terminate session gracefully by typing `end`.  
 
 ---
+
+## ✨ Learning Outcomes
+
+- Hands-on experience with Java Socket Programming (TCP/IP).
+
+- Knowledge of network programming concepts (client-server, peer-to-peer).
+
+- Implementation of logging mechanisms.
+
+- Understanding of platform-independent communication in Java.
+
+- Foundation for building scalable chat/messaging applications.
+
+----
+
 ## 🛠 Prerequisites
 
 
